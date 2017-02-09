@@ -2,19 +2,26 @@
 Add more styles here!
 ================= */
 
-body {
-    padding: 0;
-    overflow: hidden;
-    font-family: helvetica, arial, sans-serif;
+
+.header {
+     font-family: Verdana;
+  }
+
+  .header2 {
+      font-family: Verdana;
+      color: grey;
+         }
+
+.break {
+  display: block;
+  color: white;
+  height: 5px;
 }
 
-.map {
-    position: absolute;
-    right: 0px;
-    left: 340px;
-    height: 100%;
-    top: 0;
-}
+.address {
+    color: #87CEEB;
+    font-family: Arial;
+  }
 
 .sidebar {
     position: absolute;
